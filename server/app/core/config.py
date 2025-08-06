@@ -17,7 +17,7 @@ def parse_cors(v: Any) -> list[str] | str:
 
 # Centralized global settings
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "akasha-showdown-server"
+    PROJECT_NAME: str = "fastapi-server"
     PORT: int = 80
 
     FRONTEND_HOST: str = "http://localhost:3000"

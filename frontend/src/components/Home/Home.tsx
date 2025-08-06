@@ -21,14 +21,14 @@ export function Home() {
   return (
     <>
       <Title className={classes.title} ta="center" mt={100}>
-        Akasha{" "}
+        Hello{" "}
         <Text
           inherit
           variant="gradient"
           component="span"
           gradient={{ from: "pink", to: "yellow" }}
         >
-          Showdown
+          World
         </Text>
         <ColorSchemeToggle />
       </Title>

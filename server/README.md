@@ -1,4 +1,4 @@
-# Python FastAPI Server for Akasha Showdown webapp
+# Python FastAPI Server Template
 
 Database: PostgresSQL hosted on Supabase.
 

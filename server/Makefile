@@ -1,5 +1,5 @@
-IMAGE_NAME = akasha-showdown-server
-CONTAINER_NAME = akasha-showdown-server
+IMAGE_NAME = fastapi-server
+CONTAINER_NAME = fastapi-server
 PORT = 8181
 
 .PHONY: build run stop clean make rebuild init_db

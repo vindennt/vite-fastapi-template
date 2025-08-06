@@ -63,7 +63,7 @@ export function AuthenticationForm(props: PaperProps) {
   return (
     <Paper radius="md" p="lg" withBorder {...props}>
       <Text size="lg" fw={500}>
-        Welcome to Akasha Showdown, {type} with
+        Hello World, {type} with
       </Text>
 
       <Group grow mb="md" mt="md">
