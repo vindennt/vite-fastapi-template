@@ -13,14 +13,6 @@ git clone https://github.com/<your-github-org>/vite-fastapi-template.git
 cd vite-fastapi-template
 ```
 
-**Install dependencies for both frontend and backend:**
-
-```bash
-cd frontend && npm install
-cd ../server && pip install -r requirements.txt
-cd ..
-```
-
 ### 2. Backend Setup
 
 1.  Install dependencies
